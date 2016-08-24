@@ -1,0 +1,22 @@
+.caja {
+	width:240px;
+	height: 240px;
+	background-color: #F10E0E;
+	position: static;
+}
+.caja1 {
+	width: 120px;
+	height: 120px;
+	background-color: #51049E;
+	position: relative;
+	top: 60px;
+	bottom:60px;
+	left:60px;
+	right:60px;
+}
+.caja2 {
+	width: 60px;
+	height: 60px;
+	background-color: #F3F02C;
+	position: absolute;
+}
